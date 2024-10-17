@@ -7,9 +7,14 @@ Features
 -Interactive Elements: Implemented with JavaScript to enhance the user experience with smooth transitions and dynamic content.
 
 Tools and Technologies
+
 -HTML5: For structuring the content and layout of the website.
+
 -CSS3: Used for styling, including Flexbox and Grid for layout, and custom animations.
+
 -JavaScript: To handle interactivity and enhance the user experience.
+
+
 
 Installation:
 
@@ -17,14 +22,18 @@ Clone the repository:
 
 git clone https://github.com/yourusername/personal-portfolio.git
 
+
 Open the project folder:
 
 cd personal-portfolio
+
 
 Open index.html in your browser to view the site.
 
 
 License
+
+
 This project is open-source and available under the MIT License.
 
 Feel free to modify it according to your specific project details! <3

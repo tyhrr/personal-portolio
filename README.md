@@ -14,9 +14,11 @@ Tools and Technologies
 Installation:
 
 Clone the repository:
+
 git clone https://github.com/yourusername/personal-portfolio.git
 
 Open the project folder:
+
 cd personal-portfolio
 
 Open index.html in your browser to view the site.
